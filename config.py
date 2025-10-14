@@ -1,0 +1,11 @@
+import pygame
+
+pygame.init()
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+BUTTON_COLOR = (42, 123, 136)
+BUTTON_HOVER_COLOR = (12, 93, 136)
